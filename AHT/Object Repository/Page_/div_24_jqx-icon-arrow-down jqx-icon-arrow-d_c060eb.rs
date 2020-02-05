@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_24_jqx-icon-arrow-down jqx-icon-arrow-d_c060eb</name>
+   <tag></tag>
+   <elementGuidId>19a3c0f0-c7c9-48c4-a867-1a4a492da5aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dropdownlistArrowsearchDate']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jqx-icon-arrow-down jqx-icon-arrow-down-ui-hamon jqx-icon jqx-icon-ui-hamon jqx-icon-arrow-down-hover jqx-icon-arrow-down-hover-ui-hamon jqx-icon-arrow-down-selected jqx-icon-arrow-down-selected-ui-hamon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownlistArrowsearchDate&quot;)/div[@class=&quot;jqx-icon-arrow-down jqx-icon-arrow-down-ui-hamon jqx-icon jqx-icon-ui-hamon jqx-icon-arrow-down-hover jqx-icon-arrow-down-hover-ui-hamon jqx-icon-arrow-down-selected jqx-icon-arrow-down-selected-ui-hamon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dropdownlistArrowsearchDate']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

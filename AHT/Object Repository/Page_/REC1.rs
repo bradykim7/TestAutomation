@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>REC1</name>
+   <tag></tag>
+   <elementGuidId>47d43d84-7420-444b-8677-6c72c4c91bcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div[2]/div/div[3]/div/div[3]/div/div[1]/div/div[3]/div/div[3]/div/div/div[2]/div/div/div/div/svg/g[6]/g[1]/rect[1]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testRec0</name>
+   <tag></tag>
+   <elementGuidId>927d491f-fe0f-45c2-bf0c-6c0c10f4507d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div[2]/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div/div[2]/div/div/div/div/svg/g[6]/g[1]/rect[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect_Created with Highcharts 602_highcharts_220f1f (1)</name>
+   <tag></tag>
+   <elementGuidId>bdad6bb0-aaff-40ca-9759-f38bdb878913</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>contains(id,&quot;highcharts&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;highcharts-series-group&quot;]/g[@class=&quot;highcharts-series highcharts-series-0 highcharts-column-series highcharts-tracker highcharts-series-hover&quot;]/rect[@class=&quot;highcharts-point highcharts-color-0 highcharts-point-hover&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//*[@id=&quot;highcharts-8x8r1bz-14&quot;]/svg/g[6]/g[1]/rect[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>*[contains(@id,&quot;highcharts&quot;)]/svg/g[6]/g[1]/rect[1]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>19.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>39.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>38</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>77</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>rgb(144,159,241)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#ffffff</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-point highcharts-color-0 highcharts-point-hover</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>contains(id,&quot;highcharts&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;highcharts-series-group&quot;]/g[@class=&quot;highcharts-series highcharts-series-0 highcharts-column-series highcharts-tracker highcharts-series-hover&quot;]/rect[@class=&quot;highcharts-point highcharts-color-0 highcharts-point-hover&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

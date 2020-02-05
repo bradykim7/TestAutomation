@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__jqx-calendar-title-navigation jqx-cale_cb5931</name>
+   <tag></tag>
+   <elementGuidId>090f8a63-f637-4dfe-855d-7302849f29ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='leftNavigationArrowViewinnerCalendarjqxWidgetaad15edf42f6']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jqx-calendar-title-navigation jqx-calendar-title-navigation-ui-hamon jqx-icon-arrow-left jqx-icon-arrow-left-ui-hamon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftNavigationArrowViewinnerCalendarjqxWidgetaad15edf42f6&quot;)/div[@class=&quot;jqx-calendar-title-navigation jqx-calendar-title-navigation-ui-hamon jqx-icon-arrow-left jqx-icon-arrow-left-ui-hamon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='leftNavigationArrowViewinnerCalendarjqxWidgetaad15edf42f6']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/table/tbody/tr/td/div</value>
+   </webElementXpaths>
+</WebElementEntity>
